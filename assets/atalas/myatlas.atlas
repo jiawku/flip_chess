@@ -1,0 +1,125 @@
+
+myatlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 1, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+black_bin
+  rotate: false
+  xy: 1, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+black_jiang
+  rotate: false
+  xy: 420, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+black_ju
+  rotate: false
+  xy: 420, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+
+myatlas2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_ma
+  rotate: false
+  xy: 1, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+black_pao
+  rotate: false
+  xy: 1, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+black_shi
+  rotate: false
+  xy: 420, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+black_xiang
+  rotate: false
+  xy: 420, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+
+myatlas3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red_bin
+  rotate: false
+  xy: 1, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+red_jiang
+  rotate: false
+  xy: 1, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+red_ju
+  rotate: false
+  xy: 420, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+red_ma
+  rotate: false
+  xy: 420, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+
+myatlas4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red_pao
+  rotate: false
+  xy: 1, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+red_shi
+  rotate: false
+  xy: 1, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+red_xiang
+  rotate: false
+  xy: 420, 420
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
